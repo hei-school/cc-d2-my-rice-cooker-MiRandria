@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is a simple rice cooker application written in C#, Ruby, C and Typescript. It provides basic functionalities for cooking rice, including monitoring for overheating during the cooking process and ensuring the quality of the rice meets specified criteria.
+This is a simple rice cooker application written in C#, Ruby, python and Typescript. It provides basic functionalities for cooking rice, including monitoring for overheating during the cooking process and ensuring the quality of the rice meets specified criteria.
 
 ## Functionalities:
 
